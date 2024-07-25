@@ -1,0 +1,44 @@
+{
+	"config": {
+		"showGithubStats": true,
+		"styles": ""
+	},
+	"items": [
+		{
+			"title": "Hello World",
+			"description": "Dive into the transformative power of technology.",
+			"type": "card-basic",
+			"style": "p-4 md:col-span-1 md:row-span-1"
+		},
+		{
+			"title": "Lorem ipsum",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, dignissimos nihil adipisci",
+			"type": "card-basic",
+			"style": "p-4 md:col-span-2 md:col-row-1"
+		},
+		{
+			"title": "The Power of Communication",
+			"description": "Understand the impact of effective communication in our lives.",
+			"type": "card-basic",
+			"style": "p-4 md:col-span-2 md:row-span-1"
+		},
+		{
+			"title": "Lorem ipsum",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, dignissimos nihil adipisci",
+			"type": "card-basic",
+			"style": "p-4 md:col-span-1 md:row-span-2 "
+		},
+		{
+			"title": "Lorem ipsum",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, dignissimos nihil adipisci",
+			"type": "card-basic",
+			"style": "p-4 md:col-span-1 md:col-row-1"
+		},
+		{
+			"title": "Lorem ipsum",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, dignissimos nihil adipisci",
+			"type": "card-basic",
+			"style": "p-4 md:col-span-1 md:col-row-1"
+		}
+	]
+}
